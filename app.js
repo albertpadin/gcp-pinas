@@ -64,7 +64,7 @@ app.get('/', (req, res) => {
       </div>
 
       <div class="jumbotron">
-        <h1>Yo!!! Welcome to GCP Pinas!!!! \\o/</h1>
+        <h1>Hello there!!! Welcome to GCP Pinas!!!! \\o/</h1>
       </div>
 
 
